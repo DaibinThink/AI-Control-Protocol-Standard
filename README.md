@@ -1,4 +1,8 @@
 # AI-Control-Protocol
+
+> **Shortcut for English Users:** 
+> Don't want to read the full architecture? Get the plug-and-play **Core Injection Prompt (v3.3)** directly here:
+> 🔗 [Get the Core Prompt on Gumroad](https://fengdaibin.gumroad.com/l/ktpxi)
 An open-source cognitive protocol to maintain human agency against AI hallucinations.
 # AI Operation Protocol · Project Category (General Constraint Rules)
 
