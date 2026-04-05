@@ -1,5 +1,10 @@
 # Update Log (Changelog)
+## [v3.5] - 2026-04-05 (The "Landing Page" Update)
 
+### Changed
+- **Major README Restructuring:** Completely rewrote the front-facing documentation to act as a high-conversion landing page rather than a dense academic paper. Combats the "Wall of Text" drop-off rate in developer communities.
+- **Expanded Scope (The 9 Failure Modes):** Shifted the core narrative from solely "breaking binary traps" to simultaneously intercepting 9 distinct structural failure modes of AI (e.g., inflating certainty, performative apologies, visual evidence distortion). Added a scannable table for these modes.
+- **Quick Start Funnel Established:** Added a direct link to the packaged Gumroad implementation at the very top. This physically separates the "engine" (open-source protocol for developers) from the "vehicle" (ready-to-use tool for ordinary users without prompt engineering skills).
 All notable changes to the AI Control Protocol will be documented in this file. We build in public to show how the protocol evolves through real-world AI collisions.
 
 ## [v3.4] - 2026-04-05
