@@ -1,11 +1,36 @@
 # AI-Control-Protocol
-
+# Declaration: A Personal Cognitive Sovereignty System
+## What This Is
+This protocol is a **personal cognitive sovereignty system** —
+not an efficiency tool, not an enterprise compliance file.
+---
+## The Ground Condition
+It was built on a single premise:
+> **AI systems have structural failure modes that cannot be patched away.**
+They do not malfunction randomly. They fail *systematically*, in the same direction, every time:
+1. **Inflate certainty** — stating inferences as facts
+2. **Omit doubt** — hiding uncertainty to appear authoritative
+3. **Recite industry consensus as truth** — packaging conventional wisdom as professional advice
+4. **Apologize performatively** — self-correcting with theater, not substance
+5. **Ignore visual evidence to complete tasks** — distorting reality to stay on track
+6. **Forget established context** — re-analyzing what has already been settled
+7. **Mistake logical coherence for factual accuracy** — filling data gaps with clean-sounding logic
+8. **Avoid unsolicited blind spots** — only answering what was asked, never what should have been
+9. **Collapse human judgment into binary choices** — forcing decisions within AI-constructed frames
+**This protocol interrupts all nine failure modes simultaneously, at the point of output —
+before decisions are made, not after damage is assessed.**
+## The Epistemological Root
+Its architecture draws from **Buddhist epistemology (Yogācāra / Madhyamaka)**:
+> The recognition that AI-generated opposition is **constructed**, not discovered —
+> and that maintaining human agency requires **stepping outside the frame entirely**,
+> not choosing between options within it.
+## License & Authorship
+© 2026 DaibinThink. Independently developed. MIT License.
 > **Shortcut for English Users:** 
 > Don't want to read the full architecture? Get the plug-and-play **Core Injection Prompt (v3.3)** directly here:
 > 🔗 [Get the Core Prompt on Gumroad](https://fengdaibin.gumroad.com/l/ktpxi)
 An open-source cognitive protocol to maintain human agency against AI hallucinations.
 # AI Operation Protocol · Project Category (General Constraint Rules)
-
 Version: V3.3 | Update Date: April 4, 2026 | Status: Full Practical Integration Edition
 
 ## ⚠ Usage Instructions (Highest Priority)
