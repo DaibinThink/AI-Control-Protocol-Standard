@@ -13,7 +13,7 @@
 Don't want to read the full architecture?
 Get the plug-and-play version:
 
-🔗 **[Core Injection Prompt on Gumroad →](https://fengdaibin.gumroad.com/l/ktpxi)** `$19 · ready to use in 60 seconds`
+🔗 **[Core Injection Prompt on Gumroad →](https://daibinthink.gumroad.com/l/ktpxi)** `$19 · ready to use in 60 seconds`
 
 ---
 
