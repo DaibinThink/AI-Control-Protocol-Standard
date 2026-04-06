@@ -1,6 +1,6 @@
 ---
 name: AI-Control-Protocol
-version: 4.2.0
+version: 4.3.0
 description: A Cognitive Immune System for OpenClaw. Interrupts the 9 failure modes of LLM sycophancy, forces objective pushback, and uses Madhyamaka epistemology to break binary traps.
 author: DaibinThink
 tags: [cognitive-immune-system, zero-bs, madhyamaka, anti-sycophancy, truth-seeking]
