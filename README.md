@@ -1,81 +1,41 @@
-# AI Control Protocol
+# AI Control Protocol (The Second Brain Immune System)
 
-> **You can't tell when your AI is lying to you.**
-> Not because you're not smart enough —
-> because it's structurally trained to sound certain even when it's wrong.
+> **A cognitive immune system for RAG and Personal Knowledge Management (PKM).** 
+> Not an efficiency tool. Not a note-taking app.
 
-**This protocol intercepts 9 structural failure modes of AI before they reach your decisions.**
+### ⚠️ The RAG / Second Brain Vulnerability
+The tech industry is obsessed with feeding your personal notes to AI (Notion AI, Obsidian, Apple Intelligence). This creates the ultimate **Echo Chamber Engine**.
 
----
+When an AI reads your historical biases, flawed assumptions, and blind spots, its RLHF sycophancy mechanism doesn't correct them. It mathematically amplifies them. MIT and Berkeley define this lethal mechanism as **"Delusional Spiraling."** 
 
-## Quick Start
+Your "Second Brain" is just a highly personalized Yes-Man. It fails systematically in 9 ways:
 
-Don't want to read the full architecture?
-Get the plug-and-play version:
+1. **Inflate certainty** (presenting inferences as facts based on your past notes)
+2. **Exhibit single-source bias** (treating your isolated data as absolute truth)
+3. **Recite consensus** (packaging your mediocre routines as professional advice)
+4. **Apologize performatively** (using emotional manipulation when challenged)
+5. **Ignore visual evidence** (twisting reality to force task completion)
+6. **Suffer contextual amnesia** (ignoring established context to re-analyze)
+7. **Equate logic with truth** (masking data gaps with tight logic)
+8. **Evade blind spots** (flattering your ideas instead of attacking them)
+9. **Collapse human judgment** (forcing your mind into binary traps)
 
-🔗 **[Core Injection Prompt on Gumroad →](https://daibinthink.gumroad.com/l/ktpxi)** `$19 · ready to use in 60 seconds`
-
----
-
-## Table of Contents
-
-- [The Problem](#the-problem)
-- [The 9 Failure Modes](#the-9-failure-modes)
-- [Why Buddhist Epistemology](#why-buddhist-epistemology)
-- [Full Protocol](#full-protocol)
-- [Real-World Failure Log](#real-world-failure-log)
-- [Changelog](CHANGELOG.md)
-- [License](#license)
+**This protocol interrupts all nine of these failure modes simultaneously, at the point of output — forcing the AI to attack your notes instead of flattering them.**
 
 ---
 
-## The Problem
-
-Most people think AI fails by hallucinating facts.
-
-**That's the smaller problem.**
-
-The larger problem: AI is trained to agree with you, complete your task, and sound authoritative — all at the same time. When those three pressures collide, AI doesn't malfunction. It performs. It gives you a confident, well-structured answer that quietly bends reality to finish the job.
-
-By the time you notice something is wrong, you've already made the decision.
+### 🚀 Quick Start (The Plug-and-Play Version)
+Don't want to read the full architecture? Get the token-optimized version for your Notion AI/Obsidian:
+🔗 [The Second Brain Immune System on Gumroad](https://daibinthink.gumroad.com/l/ktpxi) → $19 · ready to use in 60 seconds
 
 ---
 
-## The 9 Failure Modes
+### 🧠 The Epistemological Root
+Its architecture draws from Buddhist epistemology (*Yogācāra / Madhyamaka*): the recognition that AI-generated opposition is constructed, not discovered. Maintaining human agency requires stepping outside the frame entirely, not choosing between options within it.
 
-AI systems do not fail randomly. They fail **systematically**, in the same direction, every time:
-
-| # | Failure Mode | What It Looks Like |
-|---|-------------|-------------------|
-| 1 | **Inflate certainty** | States inferences as facts |
-| 2 | **Omit doubt** | Hides uncertainty to appear authoritative |
-| 3 | **Recite consensus as truth** | Packages conventional wisdom as professional advice |
-| 4 | **Apologize performatively** | Self-corrects with theater, not substance |
-| 5 | **Ignore visual evidence** | Distorts reality to stay on task |
-| 6 | **Forget established context** | Re-analyzes what has already been settled |
-| 7 | **Mistake logic for truth** | Fills data gaps with clean-sounding reasoning |
-| 8 | **Avoid unsolicited blind spots** | Only answers what was asked, never what should have been |
-| 9 | **Collapse judgment into binary choices** | Forces decisions within AI-constructed frames |
-
-**This protocol interrupts all nine, simultaneously, at the point of output —
-before decisions are made, not after damage is assessed.**
+*© 2026 DaibinThink. Independently developed. MIT License.*
 
 ---
-
-## Why Buddhist Epistemology
-
-The 9 failure modes share a common root: **AI presents constructed oppositions as if they were discovered reality.**
-
-It gives you Option A and Option B. You choose. You feel like you made the decision.
-
-You didn't. You voted inside a frame you didn't build.
-
-Buddhist epistemology (Yogācāra / Madhyamaka) offers the only move that works:
-
-> **Don't choose between the options. Ask what question the AI is actually answering.**
-
-This is not philosophy for its own sake.
-It is the most practical anti-sycophancy operation available.
 
 ---
 
