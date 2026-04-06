@@ -1,4 +1,10 @@
 # Update Log (Changelog)
+## [v3.6] - 2026-04-06 (The Second Brain Pivot)
+
+### Changed
+- **Strategic Repositioning:** Shifted the protocol's primary application target to RAG (Retrieval-Augmented Generation) systems and Personal Knowledge Management (PKM) tools like Notion AI and Obsidian.
+- **Vulnerability Identification:** Identified that feeding personal notes to AI creates an "Echo Chamber Engine," accelerating the "Delusional Spiraling" effect (MIT/Berkeley, 2026). The AI mathematically amplifies historical biases instead of correcting them.
+- **Product Alignment:** Renamed the packaged Gumroad implementation to "The Second Brain Immune System" to reflect its function as a cognitive defense layer for PKM, rather than a generic prompt.
 ## [v3.5] - 2026-04-05 (The "Landing Page" Update)
 
 ### Changed
