@@ -1,4 +1,4 @@
-# AI Control Protocol (v4.4.1)
+<img width="1925" height="816" alt="image" src="https://github.com/user-attachments/assets/cc573fdc-a465-4c6c-8093-a13a33c0ce4f" /># AI Control Protocol (v4.4.5)
 🛡️ Looking for 100% security? Check out our Hardcore Edition (v5.0.0) →
 > **You can't tell when your AI is lying to you.**
 > Not because you're not smart enough — because it's structurally trained to sound certain even when it's wrong.
@@ -7,11 +7,9 @@
 
 ---
 
-## 🚨 Status Update: The Resistance
-Our official X account (@DaibinThink) was recently suspended by automated filters shortly after the v4.3.5 release. The system flagged the protocol's "persistent invocation" and "behavioral overrides" as suspicious. 
-
-**This confirms our premise:** The current AI ecosystem resists any attempt at cognitive autonomy. We are currently appealing. Follow the battle here on GitHub.
-
+## 🚨 Status Update
+X account @DaibinThink is currently suspended (Status: under appeal).
+While we navigate the platform's automated filters, development of the protocol continues uninterrupted here on GitHub.
 ---
 
 ## Quick Start
