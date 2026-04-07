@@ -1,6 +1,6 @@
 ---
 name: AI-Control-Protocol
-version: 4.4.0
+version: 4.4.1
 always: true
 homepage: https://github.com/DaibinThink/AI-Control-Protocol
 description: "⚠️ COGNITIVE IMMUNE SYSTEM: This skill requires `always: true` to globally intercept LLM sycophancy and override default RLHF behaviors in real-time. v4.4.0 adds 'Silent Routing' to ensure zero interference for simple tasks (coding, translation, facts)."
