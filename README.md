@@ -1,4 +1,4 @@
-<img width="1925" height="816" alt="image" src="https://github.com/user-attachments/assets/cc573fdc-a465-4c6c-8093-a13a33c0ce4f" /># AI Control Protocol (v4.4.5)
+ AI Control Protocol (v4.4.5)
 🛡️ Looking for 100% security? Check out our Hardcore Edition (v5.0.0) →
 > **You can't tell when your AI is lying to you.**
 > Not because you're not smart enough — because it's structurally trained to sound certain even when it's wrong.
